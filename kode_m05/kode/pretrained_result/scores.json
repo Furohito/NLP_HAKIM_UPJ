@@ -1,0 +1,135 @@
+{
+  "token_acc": 1.0,
+  "token_p": 0.9186878486538927,
+  "token_r": 0.9740067715253075,
+  "token_f": 0.9455388903912962,
+  "sents_p": 1.0,
+  "sents_r": 1.0,
+  "sents_f": 1.0,
+  "tag_acc": null,
+  "pos_acc": null,
+  "morph_acc": null,
+  "morph_micro_p": null,
+  "morph_micro_r": null,
+  "morph_micro_f": null,
+  "morph_per_feat": null,
+  "dep_uas": null,
+  "dep_las": null,
+  "dep_las_per_type": null,
+  "ents_p": 0.06356911696717522,
+  "ents_r": 0.09737960339943343,
+  "ents_f": 0.07692307692307693,
+  "ents_per_type": {
+    "ORG": {
+      "p": 0.44869565217391305,
+      "r": 0.3106562311860325,
+      "f": 0.36712913553895415
+    },
+    "LOC": {
+      "p": 0.5396825396825397,
+      "r": 0.02038369304556355,
+      "f": 0.03928365106874639
+    },
+    "PER": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "PERSON": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "GPE": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "DATE": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "EVENT": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "CARDINAL": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "MISC": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "ORDINAL": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "TIME": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "NORP": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "PRODUCT": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "LANGUAGE": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "MONEY": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "QUANTITY": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "LAW": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "PERCENT": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "FAC": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    },
+    "WORK_OF_ART": {
+      "p": 0.0,
+      "r": 0.0,
+      "f": 0.0
+    }
+  },
+  "cats_score": 0.0,
+  "cats_score_desc": "macro F",
+  "cats_micro_p": 0.0,
+  "cats_micro_r": 0.0,
+  "cats_micro_f": 0.0,
+  "cats_macro_p": 0.0,
+  "cats_macro_r": 0.0,
+  "cats_macro_f": 0.0,
+  "cats_macro_auc": 0.0,
+  "cats_f_per_type": {},
+  "cats_auc_per_type": {}
+}
